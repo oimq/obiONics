@@ -1,0 +1,29 @@
+{
+    "screen": {
+        "canvas": {
+            "width": 600,
+            "height": 750
+        },
+        "point": {
+            "size": 20
+        },
+        "line": {
+            "width": 3,
+            "length": 150
+        },
+        "world": {
+            "pris": 500
+        }
+    },
+    "finger": {
+        "number": 5,
+        "joint": 3
+    },
+    "anim": {
+        "delay":{
+            "draw":100,
+            "implement":50,
+            "theting":100
+        }
+    }
+}
